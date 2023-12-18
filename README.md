@@ -1,5 +1,5 @@
 # Zopsmart_miniproject
-Basic CRUD operations on users database using GoFr Framework and MySQL database.
+Basic CRUD operations on user database in the registration form using GoFr Framework and MySQL database.
 
 The API can be tested using postman, by passing URL as http://localhost:8080/signup and in body, raw data can be passed such as:
 raw data ->
